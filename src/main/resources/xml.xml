@@ -1,0 +1,26 @@
+<books>
+	<book>
+		<cat>
+			<java>
+				<mainfile>baiue</mainfile>
+				<newfile>afara</newfile>
+				<newpackage>agegawe</newpackage>
+			</java>
+			<php>
+				<mainfile>afergf</mainfile>
+				<newfile>agragr</newfile>
+				<newpackage>agra</newpackage>
+			</php>
+			<python>
+				<mainfile>agraeg</mainfile>
+				<newfile>agreag</newfile>
+				<newpackage>agrae</newpackage>
+			</python>
+			<nodejs>
+				<mainfile>3wr5y</mainfile>
+				<newfile>eytt7</newfile>
+				<newpackage>jdy</newpackage>
+					</nodejs>
+				</cat>
+			</book>
+		</books>
